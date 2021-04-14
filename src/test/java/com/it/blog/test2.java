@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @Slf4j
-public class test {
+public class test2 {
     @Test
     public void test1() {
         SobUser sobUser = new SobUser();
